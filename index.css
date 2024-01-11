@@ -281,18 +281,15 @@ h4 {
     color: #101010;
     font-family: Montserrat;
     font-size: 15px;
-    font-style: normal;
     font-weight: 500;
-    line-height: normal;
+    padding: 5px;
 }
 
 .gg2 {
     color: #FFA542;
     font-family: Montserrat;
     font-size: 15px;
-    font-style: normal;
     font-weight: 700;
-    line-height: normal;
 }
 
 .logos {
@@ -380,6 +377,7 @@ h4 {
     border: none;
     margin-left: 35px;
     margin-top: 10px;
+    padding-left: 15px;
 
 }
 
@@ -391,6 +389,8 @@ h4 {
     border: none;
     margin-left: 35px;
     margin-top: 10px;
+    padding-left: 15px;
+
 }
 
 .input3 {
@@ -401,6 +401,8 @@ h4 {
     border: none;
     margin-left: 35px;
     margin-top: 10px;
+    padding-left: 15px;
+
 }
 
 .input4 {
@@ -411,6 +413,8 @@ h4 {
     border: none;
     margin-left: 35px;
     margin-top: 10px;
+    padding-left: 15px;
+
 }
 
 .input5 {
@@ -421,6 +425,8 @@ h4 {
     border: none;
     margin-left: 35px;
     margin-top: 10px;
+    padding-left: 15px;
+
 }
 
 .right_card {
